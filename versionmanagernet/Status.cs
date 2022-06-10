@@ -1,4 +1,4 @@
-﻿namespace versionmanager;
+﻿namespace versionmanagernet;
 
 /// <summary>
 /// Enum relating

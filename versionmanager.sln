@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "versionmanager", "versionmanager\versionmanager.csproj", "{9CB74477-4708-41D6-8FCB-C0F74EC68E79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "versionmanagernet", "versionmanagernet\versionmanagernet.csproj", "{9CB74477-4708-41D6-8FCB-C0F74EC68E79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

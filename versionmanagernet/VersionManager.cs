@@ -1,4 +1,4 @@
-﻿namespace versionmanager;
+﻿namespace versionmanagernet;
 
 /// <summary>
 /// The main class to compare a local project to the latest Github release and perform actions based on the result

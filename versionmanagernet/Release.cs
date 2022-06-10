@@ -1,4 +1,4 @@
-﻿namespace versionmanager;
+﻿namespace versionmanagernet;
 
 /// <summary>
 /// Represents a parsed GitHub release API JSON. This does not contain all the information contained in the JSON

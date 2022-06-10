@@ -1,4 +1,4 @@
-﻿namespace versionmanager;
+﻿namespace versionmanagernet;
 
 /// <summary>
 /// Represents a version number to easily compare project versions

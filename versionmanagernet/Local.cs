@@ -1,4 +1,4 @@
-﻿namespace versionmanager;
+﻿namespace versionmanagernet;
 
 /// <summary>
 /// Representation of project version a user is currently using.

@@ -2,7 +2,7 @@
 using System.Net.Http.Headers;
 using System.Net.Http.Json;
 
-namespace versionmanager;
+namespace versionmanagernet;
 
 /// <summary>
 /// Handler for retrieving and managing latest GitHub Release info
@@ -38,7 +38,7 @@ internal class Remote : Project
         using var handler = new HttpClientHandler();
         using var client = new HttpClient(handler);
         var req = new HttpRequestMessage(HttpMethod.Get, _sUrl);
-        var productValue = new ProductInfoHeaderValue("versionmanger", "1.0.0");
+        var productValue = new ProductInfoHeaderValue("versionmangernet", "1.0.0");
         var commentValue = new ProductInfoHeaderValue("(+https://neonix.me/versionmanager)");
         req.Headers.UserAgent.Add(productValue);
         req.Headers.UserAgent.Add(commentValue);
